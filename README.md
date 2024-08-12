@@ -1,6 +1,6 @@
 # Arthur Magalhães
 
-Meu nome é Arthur atualmente trabalho como desenvolvedor Front End utilizando React, Typescript, Styled Components, Git e alguns comandos com Docker.
+Meu nome é Arthur atualmente trabalho como Desenvolvedor Front-End utilizando React, Typescript, Styled Components, Git e alguns comandos com Docker.
 
 ### Conecte-se comigo
 
@@ -13,7 +13,8 @@ Meu nome é Arthur atualmente trabalho como desenvolvedor Front End utilizando R
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
