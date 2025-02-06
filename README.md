@@ -1,6 +1,10 @@
 # Arthur Magalhães
 
-Meu nome é Arthur atualmente trabalho como Desenvolvedor Front-End utilizando React, Typescript, Styled Components, Git e alguns comandos com Docker.
+I am a passionate Front End Developer with expertise in building responsive and user-friendly web applications using React.js, TypeScript, and Styled Components. While I excel in front-end development, I am eager to expand my skill set and transition into roles as a Software Engineer or Full-Stack Developer. 
+
+------------------------------------------------
+
+Sou um Desenvolvedor Front End apaixonado por criar aplicações web responsivas e intuitivas utilizando React.js, TypeScript e Styled Components. Embora eu me destaque no desenvolvimento front-end, estou ansioso para expandir minhas habilidades e migrar para funções como Engenheiro de Software ou Desenvolvedor Full-Stack. 
 
 ### Conecte-se comigo
 
